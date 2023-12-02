@@ -9,3 +9,4 @@ cd ..
 echo "- **Day $1**" >> README.md
 echo "  - ☐ Python" >> README.md
 echo "  - ☐ Rust" >> README.md
+code .
