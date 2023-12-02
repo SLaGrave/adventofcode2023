@@ -8,9 +8,11 @@ The plan is to do each day twice - once in python (for speed/point maximization)
 
 ## Days completed
 
-- **Day1**
+- **Day 1**
   - 🗹 Python
   - 🗹 Rust
-- **Day2**
+<!--
+- **Day 2**
   - ☐ Python
   - ☐ Rust
+-->
