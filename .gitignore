@@ -1,0 +1,6 @@
+# Rust specific
+debug/
+target/
+
+# Python specific
+__pycache__/
