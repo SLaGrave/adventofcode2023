@@ -6,3 +6,6 @@ cp ../python_template.py ./python/main.py
 touch input.txt
 cargo new rust
 cd ..
+echo "- **Day $1**" >> README.md
+echo "  - ☐ Python" >> README.md
+echo "  - ☐ Rust" >> README.md
