@@ -14,3 +14,6 @@ The plan is to do each day twice - once in python (for speed/point maximization)
 - **Day 02**
   - 🗹 Python
   - 🗹 Rust
+- **Day 03**
+  - 🗹 Python
+  - ☐ Rust
