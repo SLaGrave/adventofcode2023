@@ -14,6 +14,9 @@ The plan is to do each day twice - once in python (for speed/point maximization)
 - **Day 02**
   - 🗹 Python
   - 🗹 Rust
-- **Day 03** - Note I added an extra NoOp to each row to make parsing a bit easier
+- **Day 03** - ⚠️ Note: I added an extra NoOp to each row to make parsing a bit easier
   - 🗹 Python
   - 🗹 Rust
+- **Day 04** - ⚠️ Note: I edited the input format manually to make parsing easier
+  - 🗹 Python
+  - ☐ Rust
