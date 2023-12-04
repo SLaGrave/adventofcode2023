@@ -1,7 +1,7 @@
 echo "Creating folder day$1"
 echo "- **Day $1**" >> README.md
-echo "  - ☐ Python" >> README.md
-echo "  - ☐ Rust" >> README.md
+echo "  - :white_check_mark: Python" >> README.md
+echo "  - :x: Rust" >> README.md
 code .
 mkdir day$1
 cd day$1
