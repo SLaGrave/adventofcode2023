@@ -5,18 +5,18 @@ def clean_data(data: list) -> list:
     return data
 
 
-def part1(data: list) -> str:
-    s = ""
+def part1(data: list):
+    total = 0
     # Logic goes here
 
-    return s
+    return total
 
 
-def part2(data: list) -> str:
-    s = ""
+def part2(data: list):
+    total = 0
     # Logic goes here
     
-    return s
+    return total
 
 
 if __name__ == "__main__":
