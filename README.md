@@ -19,4 +19,4 @@ The plan is to do each day twice - once in python (for speed/point maximization)
   - 🗹 Rust
 - **Day 04** - ⚠️ Note: I edited the input format manually to make parsing easier
   - 🗹 Python
-  - ☐ Rust
+  - 🗹 Rust

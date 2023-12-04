@@ -4,3 +4,7 @@ target/
 
 # Python specific
 __pycache__/
+
+# Need because MacOS is nearly perfect but
+# really likes this one weird folder
+.DS_Store
