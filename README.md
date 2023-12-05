@@ -20,3 +20,6 @@ The plan is to do each day twice - once in python (for speed/point maximization)
 - **Day 04** - ⚠️ Note: I edited the input format manually to make parsing easier
   - :white_check_mark: Python
   - :white_check_mark: Rust
+- **Day 05** - ⚠️ Note: Heavily edited input + worst code I've ever written?
+  - :white_check_mark: Python
+  - :x: Rust - Doubt it honestly...
