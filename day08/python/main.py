@@ -31,14 +31,6 @@ def part1(data: list):
     return step
 
 
-def are_done(x):
-    flag = True
-    for item in x:
-        if item[2] != "Z":
-            flag = False
-    return flag
-
-
 def part2(data: list):
     instructions = data[0]
     nodes = data[1]
