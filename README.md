@@ -41,7 +41,7 @@ The plan is to do each day twice - once in python (for speed/point maximization)
   - :white_check_mark: [Rust](./day06/rust/)
 - **Day 07**
   - :white_check_mark: [Python](./day07/python/)
-  - :x: [Rust](./day07/rust/)
+  - :x: Rust
 - **Day 08**
   - ⚠️ Note: Edited the input format slightly
   - :white_check_mark: [Python](./day08/python/)
