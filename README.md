@@ -29,7 +29,7 @@ The plan is to do each day twice - once in python (for speed/point maximization)
   - ⚠️ Note: Heavily edited input
   - ⚠️ Note: I originally really hated my implementation, but looking back on it the day after writting it I really don't think it's that bad (slow as all hell though)
   - :white_check_mark: [Python](./day05/python/)
-  - :x: [Rust](./day05/rust/) - Doubt it honestly...
+  - :x: Rust
 
 </details>
 
