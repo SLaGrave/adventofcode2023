@@ -61,3 +61,9 @@ The plan is to do each day twice - once in python (for speed/point maximization)
 - **Day 12**
   - :white_check_mark: [Python](./day12/python/) - ⚠️ Got a bit of help from the subreddit here, so the code is sort of hard to follow for part 2 as its a combo of my usual scuffed style + a different way of looking at the recursion for part 2.
   - :x: Rust
+- **Day 13**
+  - :x: Python
+  - :x: Rust
+- **Day 14**
+  - :white_check_mark: [Python](./day14/python/)
+  - :x: Rust
